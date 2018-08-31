@@ -1,0 +1,8 @@
+PROJECT_NAME   = "MATRIX CALCULATOR"
+PROJECT_BRIEF  = "This program allows you to manage matrices and perform basic operations with them."
+GENERATE_LATEX = NO
+GENERATE_HTML  = YES
+HAVE_DOT       = YES
+UML_LOOK       = YES
+INPUT          = "./src"
+IMAGE_PATH     = "./src"
