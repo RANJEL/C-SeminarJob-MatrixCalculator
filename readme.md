@@ -1,8 +1,8 @@
 ## About
 This is my seminar job from CTU that is written in C++. I got the task to implement Matrix Calculator, that would provide all basic operation with matrices like
-- + 
-- - 
-- *
+- addition
+- subtraction
+- multiplication
 - transposition
 - inversion
 - determinant calculation
@@ -17,6 +17,6 @@ You need tools called make and doxygen. Then just write command make
 
 $ make
 
-To run Matrix calculation type
+To run Matrix calculator type
 
 $ make run
